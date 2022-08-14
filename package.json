@@ -1,0 +1,7 @@
+{
+  "name": "version-check-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Shandy Sulen <shandysulen@gmail.com>",
+  "license": "MIT"
+}
