@@ -1,4 +1,4 @@
-name: GitHub Actions Demo
+name: Check package.json Version Bump
 on: pull_request
 jobs:
   check-version:
